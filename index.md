@@ -9,4 +9,3 @@ title: Blogging Like a Hacker
     </li>
   {% endfor %}
 </ul>
-# My Blog
