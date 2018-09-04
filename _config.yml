@@ -2,3 +2,4 @@ title: MiladJ
 description: PersonalBlog
 show_downloads: true
 theme: jekyll-theme-minimal
+github.is_user_page: true
